@@ -1,0 +1,4 @@
+Sel aturan,Nilai awal,Nilai baru,Hipotesis,Hasil
+"(PS,ZE)",0.5,1.0,"E=PS, DE=ZE: gaya diperbesar 0.5 -> 1.0, koreksi diharapkan lebih cepat","rec=1.3 s (dasar 0.385 s), max|x|=0.080 m, max|u|=15.00 N"
+"(NS,PS)",0.0,-0.5,"E=NS, DE=PS: pendulum sudah kembali ke tegak; gaya negatif tambahan akan menghambat","rec=1.215 s (dasar 0.385 s), max|x|=0.085 m, max|u|=10.00 N"
+"(ZE,PS)",0.5,1.0,"E=ZE, DE=PS: redaman lebih kuat, efek kecil karena sel hanya aktif dekat tegak","rec=0.405 s (dasar 0.385 s), max|x|=0.079 m, max|u|=10.00 N"

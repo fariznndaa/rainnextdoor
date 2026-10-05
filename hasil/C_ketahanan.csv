@@ -1,0 +1,7 @@
+No,theta0,m,Gangguan,Peak |theta| (deg),Recovery (s),Max |x| (m),Stabil
+1,4 deg,0.20 kg,6 N,4.96,0.385,0.041,Ya
+2,8 deg,0.20 kg,6 N,8.0,0.385,0.079,Ya
+3,12 deg,0.20 kg,6 N,12.0,0.385,0.136,Ya
+4,8 deg,0.15 kg,6 N,8.0,0.38,0.079,Ya
+5,8 deg,0.30 kg,6 N,8.0,0.39,0.079,Ya
+6,8 deg,0.20 kg,10 N,8.12,0.5,0.079,Ya

@@ -1,0 +1,5 @@
+Skenario,Peak |theta| (deg),Recovery (s),Max |x| (m),Max |u| (N),Stabil
+Nominal,8.0,0.385,0.079,10.0,Ya
+Noise sensor 0.1 deg,8.0,0.385,0.079,10.02,Ya
+Dead-zone 0.5 N,8.0,0.41,0.079,10.0,Ya
+AND product,8.0,0.365,0.078,10.0,Ya

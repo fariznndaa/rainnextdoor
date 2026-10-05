@@ -1,0 +1,5 @@
+Metrik,Hasil,Target,Status
+Maksimum |theta| (deg),8.0,< 20,Lulus
+Waktu pemulihan (s),0.385,<= 2,Lulus
+Maksimum |x| (m),0.079,<= 0.25,Lulus
+Maksimum |u| (N),10.0,<= 15,Lulus
